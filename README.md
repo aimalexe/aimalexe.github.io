@@ -6,4 +6,4 @@ My first one
 
 ## Check E-Com:
 
-https://aimalexe.github.io/assignments/E-Com.html
+https://aimalexe.github.io/assignments/HayatMegaMart/
