@@ -3,9 +3,7 @@ My first one
 
 ## Introduction
 
-Test
 
+## Check E-Com:
 
-E-Com:
-
-aimalexe.github.io/assignments/E-Com.html
+https://aimalexe.github.io/assignments/E-Com.html
